@@ -1,0 +1,7 @@
+  baseURL = "https://fluffy-octopus.vercel.app/"
+  languageCode = "fr"
+  title = "Fluffy Octopuss"
+  theme = "til"
+
+  [params]
+    description = "Fluffy Octopuss"
