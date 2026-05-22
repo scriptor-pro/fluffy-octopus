@@ -1,0 +1,3 @@
+  {
+    "buildCommand": "cd themes/til && npm install && cd ../.. && hugo --gc"
+  }
